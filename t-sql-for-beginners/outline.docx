@@ -1,0 +1,153 @@
+Course Title: Introduction to Database Programming with T-SQL for Beginners 
+
+Course Description: 
+
+This digital course is designed for absolute beginners with zero programming experience who want to learn the fundamentals of database programming using Transact-SQL (T-SQL). T-SQL is a powerful language used for managing and querying relational databases like Microsoft SQL Server. By the end of this course, you will have the foundational skills to work with databases, write T-SQL queries, and understand the basics of database design. 
+
+Course Duration: 8 weeks (adjustable as needed) 
+
+Course Outline: 
+
+Week 1: Introduction to Programming, Databases and SQL 
+
+Lesson 1.1: Understanding Computer Programming 
+
+What is a Computer Program 
+
+Overview of Programming Languages 
+
+Why do I need to learn how to program 
+
+Lesson 1.2: Understanding Databases 
+
+What is data 
+
+What is a database? 
+
+Types of databases (relational, NoSQL, etc.) 
+
+Lesson 1.3: Introduction to SQL 
+
+What is SQL? 
+
+SQL vs. T-SQL 
+
+Common database systems (SQL Server, MySQL, Oracle)  
+
+Week 2: Getting Started with SQL Server 
+
+Lesson 2.1: Installing SQL Server Developer Edition 
+
+Download and installation steps 
+
+Configuration and setup  
+
+Lesson 2.2: SQL Server Management Studio (SSMS) 
+
+Navigating the SSMS interface 
+
+Connecting to databases  
+
+Week 3: Creating Databases and Tables 
+
+Lesson 3.1: Creating a Database 
+
+SQL Server databases 
+
+Creating your first database  
+
+Lesson 3.2: Designing Tables 
+
+Data types 
+
+Creating tables 
+
+Primary keys and constraints 
+
+Week 4: Retrieving Data with SELECT Statements 
+
+Lesson 4.1: Understanding SELECT Statements 
+
+Syntax and structure 
+
+Filtering and sorting data  
+
+Lesson 4.2: Retrieving Data from a Single Table 
+
+Basic SELECT queries 
+
+Aliases and expressions  
+
+Week 5: Modifying Data with INSERT, UPDATE, and DELETE 
+
+Lesson 5.1: INSERT Statements 
+
+Adding data to tables 
+
+Identity columns 
+
+Lesson 5.2: UPDATE and DELETE Statements 
+
+Modifying and deleting data 
+
+Transactions and data integrity 
+
+Week 6: Working with Joins and Relationships 
+
+Lesson 6.1: Understanding Joins 
+
+Inner, left, right, and full joins 
+
+Joining multiple tables 
+
+Lesson 6.2: Relationships and Foreign Keys 
+
+Creating relationships 
+
+Cascading actions
+
+Week 7: Introduction to Functions and Stored Procedures 
+
+Lesson 7.1: Scalar Functions 
+
+Creating and using scalar functions 
+
+Built-in functions 
+
+Lesson 7.2: Stored Procedures 
+
+Creating stored procedures 
+
+Parameters and execution 
+
+Week 8: Basic Database Design Principles 
+
+Lesson 8.1: Normalization 
+
+Understanding database normalization 
+
+Benefits and trade-offs 
+
+Lesson 8.2: Indexes and Optimization 
+
+Creating indexes for performance 
+
+Query optimization basics 
+
+Course Conclusion and Next Steps 
+
+Recap of Key Concepts: A summary of the course's main topics. 
+
+Next Steps: Guidance on further learning, career paths, and resources for continued growth in database programming. 
+
+Additional Resources: A list of recommended books, websites, and forums for students to explore as they continue their journey in database programming. 
+
+Quizzes and Assignments: Periodic quizzes and assignments to assess students' understanding and reinforce key concepts. 
+
+Final Project: A practical database project where students can apply their knowledge to create and query a real-world database. 
+
+Discussion Forums: Online forums or discussion boards for students to ask questions, share insights, and collaborate on assignments. 
+
+Instructor Support: Access to an instructor or mentor for clarifications and guidance. 
+
+Note: The course duration, specific content of lessons, and level of detail can be adjusted to suit the learners' pace and needs. Practical exercises and hands-on labs should be an integral part of the course to reinforce theoretical knowledge with practical skills. 
